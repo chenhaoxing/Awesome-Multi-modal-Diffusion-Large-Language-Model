@@ -12,6 +12,10 @@
 ---
 
 ## Survey
+| Title                                                        | Venue         | Year | 
+| :----------------------------------------------------------- | :-----------: | :--: |
+| [A Survey on Diffusion Language Models](https://arxiv.org/pdf/2508.10875)| arXiv   | 2025 | 
+
 
 ---
 
@@ -19,18 +23,18 @@
 
 ### 🏆 Understanding
 | Model | Type | Params | MMMU-val| MMMU-Pro-vision | MMStar | POPE  | MME-P| MMBench | MathVista | MMVet | SEEDBench | 
-| :----------- |:----------- |:----------- |:----------- |:----------- |:----------- |:-----------|:----------- |:-----------|:----------- |:----------- |:----------- |
+| :-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------:|:-----------: |:-----------:|:-----------: |:-----------: |:-----------: |
 | LLaDA-V|VLM | 8B | 48.6 | 18.6 | 60.1 |- |1507 |- |- |- |74.8 |
 | LaViDa |VLM | 8B|43.3 | - |- |- |1365.6 |70.5 |44.8 |- |- |
 |Lumina-DiMOO|Uni | 8B|58.6 | - |- |87.4 |1534.2 |84.5 |- |- |83.1|
-
+|Lavida-O|Uni|8B|45.1| - | - | - | 1431|76.4|56.9|-|-|
 ### 🏆 Generation
 
 ---
 
 ## Vision-language model
-| Title                                                        | Venue         | Year | Comment                                                     | Code                                                         |
-| :----------------------------------------------------------- | :-----------: | :--: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| Title                                                        | Venue         | Year | Comment                                                     | Code                                           |
+| :-----------------------------------------------------------: | :-----------: | :--: | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
 | [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](https://arxiv.org/pdf/2505.16933)| arXiv   | 2025 | First dVLM; based on LLaDA-8B-Base| [Code](https://ml-gsai.github.io/LLaDA-V-demo/) |
 | [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/pdf/2505.16839)| arXiv   | 2025 |several training tricks: complementary masking, Prefix-DLM, and timestep shifting; based on LLaDA-8B-Base| [Code](https://github.com/jacklishufan/LaViDa) |
 
@@ -41,5 +45,5 @@
 | Title                                                        | Venue         | Year | Comment                                                     | Code                                                         |
 | :----------------------------------------------------------- | :-----------: | :--: | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | [An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](https://arxiv.org/pdf/2510.06308)| arXiv   | 2025 | Scaling dLLM for Unified model;SoTA performance in Generation; based on LLaDA-8B-Base| [Code](https://github.com/Alpha-VLLM/Lumina-DiMOO) |
-
+| [Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2509.19244)| arXiv   | 2025 | Interleaved generation & image editing; based on LaViDa| -|
 
