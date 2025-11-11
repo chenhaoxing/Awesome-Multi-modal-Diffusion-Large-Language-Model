@@ -13,6 +13,10 @@
 
 ## 📜 Survey
 
+## 🏆 Leaderboard
+| Model | MMMU-val| MMMU-Pro-vision | MMStar | POPE  | MME-P| MMBench | MathVista | MMVet | SEEDBench | 
+| :----------- |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |
+| LLaDA-V| | | | | | | | | |
 
 ## 🗂️ Vision-language model
 | Title                                                        | Venue         | Year | Comment                                                     | Code                                                         |
