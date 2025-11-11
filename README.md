@@ -18,10 +18,11 @@
 ## Leaderboard
 
 ### 🏆 Understanding
-| Model | Params | MMMU-val| MMMU-Pro-vision | MMStar | POPE  | MME-P| MMBench | MathVista | MMVet | SEEDBench | 
-| :----------- |:----------- |:----------- |:----------- |:----------- |:-----------|:----------- |:-----------|:----------- |:----------- |:----------- |
-| LLaDA-V|8B | 48.6 | 18.6 | 60.1 |- |1507 |- |- |- |74.8 |
-| LaViDa |8B|43.3 | - |- |- |1365.6 |70.5 |44.8 |- |- |
+| Model | Type | Params | MMMU-val| MMMU-Pro-vision | MMStar | POPE  | MME-P| MMBench | MathVista | MMVet | SEEDBench | 
+| :----------- |:----------- |:----------- |:----------- |:----------- |:----------- |:-----------|:----------- |:-----------|:----------- |:----------- |:----------- |
+| LLaDA-V|VLM | 8B | 48.6 | 18.6 | 60.1 |- |1507 |- |- |- |74.8 |
+| LaViDa |VLM | 8B|43.3 | - |- |- |1365.6 |70.5 |44.8 |- |- |
+|Lumina-DiMOO|Uni | 8B|58.6 | - |- |87.4 |1534.2 |84.5 |- |- |83.1|
 
 ### 🏆 Generation
 
@@ -36,3 +37,9 @@
 ---
 
 ## Unified Generation and Understanding
+
+| Title                                                        | Venue         | Year | Comment                                                     | Code                                                         |
+| :----------------------------------------------------------- | :-----------: | :--: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| [An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](https://arxiv.org/pdf/2510.06308)| arXiv   | 2025 | Scaling dLLM for Unified model;SoTA performance in Generation; based on LLaDA-8B-Base| [Code](https://github.com/Alpha-VLLM/Lumina-DiMOO) |
+
+
