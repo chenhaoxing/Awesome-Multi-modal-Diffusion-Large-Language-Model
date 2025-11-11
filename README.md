@@ -5,29 +5,32 @@
 
 ## Contents
 - [Survey](#survey)
-- [Dataset](#dataset)
-- [Competition](#competition)
-- [Papers](#papers)
+- [Leaderboard](#leaderboard)
+- [Vision-language model](#vision-language-model)
+- [Unified Generation and Understanding](#Unified-Generation-and-Understanding)
 
 ---
 
 ## 📜 Survey
 
+---
+
 ## 🏆 Leaderboard
 
 ### Understanding
-| Model | MMMU-val| MMMU-Pro-vision | MMStar | POPE  | MME-P| MMBench | MathVista | MMVet | SEEDBench | 
+| Model | Params ｜ MMMU-val| MMMU-Pro-vision | MMStar | POPE  | MME-P| MMBench | MathVista | MMVet | SEEDBench | 
 | :----------- |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |
-| LLaDA-V| 48.6 | 18.6 | 60.1 |- |1507 |- |- |- |74.8 |
+| LLaDA-V|8B | 48.6 | 18.6 | 60.1 |- |1507 |- |- |- |74.8 |
 
 ### Generation
 
+---
 
-## 🗂️ Vision-language model
+## 🗂️ Vision-language-model
 | Title                                                        | Venue         | Year | Comment                                                     | Code                                                         |
 | :----------------------------------------------------------- | :-----------: | :--: | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](https://arxiv.org/pdf/2505.16933)| arXiv   | 2025 | First dVLM; based on LLaDA-8B-Base| [Code](https://ml-gsai.github.io/LLaDA-V-demo/) |
 
+---
 
-
-## 📄 Unified Generation and Understanding
+## 📄 Unified-Generation-and-Understanding
