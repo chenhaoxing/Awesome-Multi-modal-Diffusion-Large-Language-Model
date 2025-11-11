@@ -14,9 +14,14 @@
 ## 📜 Survey
 
 ## 🏆 Leaderboard
+
+### Understanding
 | Model | MMMU-val| MMMU-Pro-vision | MMStar | POPE  | MME-P| MMBench | MathVista | MMVet | SEEDBench | 
 | :----------- |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |
-| LLaDA-V| | | | | | | | | |
+| LLaDA-V| 48.6 | 18.6 | 60.1 |- |1507 |- |- |- |74.8 |
+
+### Generation
+
 
 ## 🗂️ Vision-language model
 | Title                                                        | Venue         | Year | Comment                                                     | Code                                                         |
