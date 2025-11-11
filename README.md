@@ -18,8 +18,8 @@
 ## Leaderboard
 
 ### Understanding
-| Model | Params ｜ MMMU-val| MMMU-Pro-vision | MMStar | POPE  | MME-P| MMBench | MathVista | MMVet | SEEDBench | 
-| :----------- |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |:-----------: |
+| Model | Params | MMMU-val| MMMU-Pro-vision | MMStar | POPE  | MME-P| MMBench | MathVista | MMVet | SEEDBench | 
+| :----------- |:----------- |:----------- |:----------- |:----------- |:-----------|:----------- |:-----------|:----------- |:----------- |:----------- |
 | LLaDA-V|8B | 48.6 | 18.6 | 60.1 |- |1507 |- |- |- |74.8 |
 
 ### Generation
